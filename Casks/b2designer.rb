@@ -1,4 +1,4 @@
-class B2designer < Cask
+cask :v1 => 'b2designer' do
   version '1.14'
   sha256 '3eed0897c8ee83c8959104faa9c25ed33061538812705ddaed5d28b987460ba2'
 

@@ -1,4 +1,4 @@
-class Kindle < Cask
+cask :v1 => 'kindle' do
   version '1.10.6 (40499)'
   sha256 '07d874de8e8d63fac7489eaf41271dcf12c64cb6fd6eb7eb6a9ceb6ab901938c'
 
