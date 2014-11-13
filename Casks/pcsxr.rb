@@ -1,4 +1,4 @@
-class Pcsxr < Cask
+cask :v1 => 'pcsxr' do
   version '1.9.93'
   sha256 'e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916'
 
