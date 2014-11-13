@@ -1,4 +1,4 @@
-class Winxound < Cask
+cask :v1 => 'winxound' do
   version '3.4.0'
   sha256 'c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47'
 
